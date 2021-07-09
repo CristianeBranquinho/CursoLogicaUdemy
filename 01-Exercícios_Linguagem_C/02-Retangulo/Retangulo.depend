@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620073507 source:c:\users\game\desktop\01- curso_programacao\02 - linguagem - c\03 - exercícios_linguagem_c\02_retangulo\retangulo\main.c
+	<stdio.h>
+	<math.h>
+
