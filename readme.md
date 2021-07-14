@@ -3,7 +3,7 @@
 ### Metodologia ministrada por Nelio Alves
 
 - Variáveis
-- Estrada e saída de dados
+- Entrada e saída de dados
 - Comando de atribuição (processamento)
 - Estrutura condicional
 - Estruturas repetitivas
